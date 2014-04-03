@@ -1,8 +1,5 @@
 Introduction
 
-![alt text](http://photo.yupoo.com/neuron/BadfJF0p/medish.jpg "Title")
-
-
 db2tool is a script help you to generate sql for db2. include,
 
  a) generate sql to export table data.
