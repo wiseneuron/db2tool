@@ -41,5 +41,6 @@ if you want contact the auth, please
 
 visit http://idocbox.com/ or send mail to wiseneuron@gmail.com
 
-thanks!
+
+thanks! Good luck!
 
