@@ -20,22 +20,20 @@ Usage
 
 read script db2tool.py
 
-     uncomment the line during 94~109line you want to execute.
+uncomment the line during 94~109line you want to execute.
      
-     exg, if you want to generate a sql for export a table , uncomment
+exg, if you want to generate a sql for export a table , uncomment line 97
      
-     line 97
-     
-          print db2tool.gen_export_table_sql('table_to_export_data')
+```python
+print db2tool.gen_export_table_sql('table_to_export_data')
+```
+then, execute the command in console,
+```bash     
+python db2tool.py <dbname> <user_id> <password>
+```
+thus, you can get the sql or the ddl you want. read the comment in ``db2tool.py``.
 
-     then, execute the command in console,
-     
-       python db2tool.py <dbname> <user_id> <password>
-
-      thus, you can get the sql or the ddl you want. read the comment in db2tool.py.
-
-
-auth:
+author: neuron
 
 if you want contact the auth, please
 
