@@ -35,7 +35,7 @@ thus, you can get the sql or the ddl you want. read the comment in ``db2tool.py`
 
 author: neuron
 
-if you want contact the auth, please
+if you want contact the author, please
 
 visit http://idocbox.com/ or send mail to wiseneuron@gmail.com
 
